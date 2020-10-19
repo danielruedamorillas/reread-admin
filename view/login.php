@@ -13,7 +13,7 @@
   <div class="column left">
     <h2 style="text-align: center; margin: 20% 0 0 0;">Re-Read</h2>
     <div class="form" style="margin:10%;">
-        <form action="../controller/loginController.php" method="POST">
+        <form action="..\controller\loginController.php" method="POST">
           <label for="email">Usuario</label>
           <input type="text" id="email" name="email" placeholder="Usuario...">
           
